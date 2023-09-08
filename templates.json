@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "fogevegeta",
+        "x": 440,
+        "y": 210,
+        "tamX": 216,
+        "tamY": 142,
+        "imagem": "fogevegeta.png"
+    },
+    {
+        "nome": "alvesquilo",
+        "x": 185,
+        "y": 213,
+        "tamX": 227,
+        "tamY": 227,
+        "imagem": "alvesquilo.jpg"
+    }
+]
